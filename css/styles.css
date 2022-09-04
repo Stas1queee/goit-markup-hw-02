@@ -81,6 +81,13 @@ li {
 main {
     background-color: var(--main-backgroud-color);
 }
+.list-title-list li {
+  background-color: #fff;
+}
+section .team-box{
+  background-color: 
+#F5F4FA;
+}
 .list-title {
   color: var(--secondary-text-color);
   font-weight: 700;
@@ -126,6 +133,12 @@ main {
 .btn-page:focus {
   background-color: var(--accent-color);
   color: #ffffff;
+}
+.buttons-list{ 
+  background-color: #ffffff;
+}
+ .portfolio li {
+  background-color: #eeeeee;
 }
 /* footer styles */
 .footer {
