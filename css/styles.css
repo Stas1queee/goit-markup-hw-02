@@ -97,8 +97,8 @@ main .main {
 .list-title-list li {
   background-color: var(--background-color-header);
 }
-section .team-box {
-  background-color: var(--main-backgroud-color);
+.team-box {
+  background-color: var(--filters-color);
 }
 .list-title {
   color: var(--secondary-text-color);
